@@ -21,3 +21,9 @@ In the project directory go to mock-api for start the REST server
 
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+### React Concept Used
+
+1. Context API
+2. React hooks (useEffect, useState)
+3. Conditional Redering
